@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    font-family: "Cedarville Cursive", cursive;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 1rem;
+    font-style: italic;
+    font-size: 5rem;
+    font-weight: 900;
+    color:rgb(58, 235, 58)
+}
+
+p{
+    font-family: "Cedarville Cursive", cursive;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 2rem;
+}
+
+.outer-class{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40rem;
+    
+}
+
+.img1{
+        height: 15rem;
+        width: 15rem;
+        border-radius: 8px;
+        margin-top: 1rem;
+       
+
+}
+
+
+body{
+    background-color: rgb(99, 95, 95);
+}
+
+.img1{
+    border-radius: 5rem;
+}
+
+p{
+    color: rgb(38, 235, 235);
+    font-weight: 900;
+}
+
+button{
+   
+    cursor: pointer;
+     background-color: rgb(238, 240, 243);
+
+
+}
+span{
+    color: rgb(236, 22, 58);
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 1rem;
+   
+}
+
+button:hover{
+    background-color: rgb(151, 245, 132);
+   
+}
+
+ button{
+    height: 2.5rem;
+    margin-top: 2rem;
+    width: 8rem;
+    border-radius: 4rem;
+       
+} 
+
+.heading{
+    margin-bottom: 3rem;
+}
+
+
+button{
+    background-color:rgb(201, 156, 244) ;
+}
+
